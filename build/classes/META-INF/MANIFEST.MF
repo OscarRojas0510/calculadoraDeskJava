@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 11.0.15+8-LTS-149 (Oracle Corporation)
+Class-Path: lib/pdfbox-app-2.0.26.jar lib/ojdbc7.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: calc.Calc
+
